@@ -1,3 +1,4 @@
 HOLA MUNDO!
 TENGO MUCHOS EXÁMENES
-Escrito por Luis Paredes 2022
+Escrito por Luis Paredes 2023
+Escrito para código
